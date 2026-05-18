@@ -1,30 +1,81 @@
-# Bengkel Motor Mas Djalal (2)
+🚀 Live Demo
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+🌐 https://lp-bengkel-mas-djalal.vercel.app/
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/anggaras-projects-b1ef573d/v0-new-project-x7vk3ow0akx)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/iC0SIPBli09)
+📌 About The Project
 
-## Overview
+This project was developed as a modern landing page for Bengkel Mas Djalal to improve online presence and provide clear business information for customers.
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+The website focuses on:
 
-## Deployment
+Responsive design
+Fast performance
+Modern UI/UX
+Clear call-to-action
+Mobile-first experience
+✨ Features
+Responsive layout for mobile & desktop
+Modern landing page design
+Service section
+Contact / CTA section
+Optimized performance
+Clean and scalable code structure
+🛠️ Built With
+Next.js
+Tailwind CSS
+TypeScript
+Vercel
+📂 Project Structure
+/app
+/components
+/public
+/styles
+⚙️ Installation & Setup
 
-Your project is live at:
+Clone the repository:
 
-**[https://vercel.com/anggaras-projects-b1ef573d/v0-new-project-x7vk3ow0akx](https://vercel.com/anggaras-projects-b1ef573d/v0-new-project-x7vk3ow0akx)**
+git clone https://github.com/bicaradigital/LP-Bengkel-Mas-Djalal.git
 
-## Build your app
+Navigate to the project folder:
 
-Continue building your app on:
+cd LP-Bengkel-Mas-Djalal
 
-**[https://v0.app/chat/iC0SIPBli09](https://v0.app/chat/iC0SIPBli09)**
+Install dependencies:
 
-## How It Works
+npm install
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+Run development server:
+
+npm run dev
+
+Open in browser:
+
+http://localhost:3000
+🚀 Deployment
+
+This project is deployed using Vercel.
+
+To deploy your own version:
+
+Push project to GitHub
+Import repository into Vercel
+Deploy instantly
+🎯 Goals
+
+The main goal of this project is to create a professional digital presence for local automotive services while maintaining clean performance and user-friendly navigation.
+
+📸 Preview
+
+Add screenshots or preview images here.
+
+Example:
+
+/public/preview.png
+📬 Contact
+
+For collaboration or project inquiries:
+
+GitHub: https://github.com/bicaradigital
+📄 License
+
+This project is open-source and available for learning and portfolio purposes.
